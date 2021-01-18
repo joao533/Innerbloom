@@ -19,3 +19,4 @@ const consultaCpf = async (cpf)=>{
 }
 
 consultaCpf(cpfconsultado);
+node index.js
